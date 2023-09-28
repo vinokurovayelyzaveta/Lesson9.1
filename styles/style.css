@@ -6,3 +6,8 @@ img{
     color: darkred;
     text-align: center;
 }
+
+p{
+    color: green;
+    font-size: 25px;
+}
